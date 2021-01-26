@@ -19,7 +19,7 @@ import com.google.zxing.common.BitMatrix;
 import com.google.zxing.qrcode.QRCodeWriter;
 
 /**
- * @author ken_kum
+ * @author ken
  *
  */
 public class BinaryToQR {
